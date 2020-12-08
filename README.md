@@ -9,7 +9,7 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 - 💻 I am currently working on some exciting stuff around [Dynamics 365 Field Service](https://dynamics.microsoft.com/en-au/field-service/overview/ "Dynamics 365 Field Service") and [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI")
 - 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework developers
 - ✍ Lately, I have written some [blogs](http://arafattehsin.com/blog "blogs"), guides to create awesome Conversational AI experience for your customers
-- 📚 These days, I am learning about the [latest capabilities](https://news.microsoft.com/build-2020-book-of-news/#131-microsoft-announces-new-responsible-ml-innovation-in-azure-machine-learning "latest capabilities") that were released during [Microsoft Build 2020](https://mybuild.microsoft.com/ "Microsoft Build 2020")
+- 📚 These days, I am learning about the [latest capabilities](https://news.microsoft.com/ignite-2020-book-of-news/) that were released during [Microsoft Ignite 2020](https://myignite.microsoft.com/ "Microsoft Ignite 2020") and preparing for our upcoming [Podcast](https://www.arafattehsin.com/ai-down-under-the-podcast/)
 - 👯 If you have got anything exciting around Power Platform, Bots, ML.NET or Azure AI, then I am always up for it
 - 💬 Please feel free to ask me anything around Conversational AI, Azure and Power Platform development
 - ⚡ Fun fact: When I am not working or helping anyone, I am either spending a quality time with my family or capturing nature (💡 [Instagram](http://instagram.com/arafattehsin "instagram"))
