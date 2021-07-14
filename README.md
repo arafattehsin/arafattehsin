@@ -10,7 +10,7 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 - 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework enthusiasts
 - 📈 My repo [CognitiveRocket](https://github.com/arafattehsin/CognitiveRocket) contains all of the stuff I talk or blog about. Within the same repo, I have got a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions. If you're interested in contributing, please check out the [issues]() tab. 
 - ✍ Lately, I have written some [blogs](http://arafattehsin.com/blog "blogs"), guides to create awesome AI experiences for your customers along with an [AI For Every Developer](http://www.arafattehsin.com/tag/ai-for-every-developer/ "AI For Every Developer") series.
-- 📚 These days, I am running a [Global AI Podcast](https://globalai.live/ai-the-podcast/ "Global AI Podcast") & learning about the [latest capabilities](https://news.microsoft.com/ignite-march-2021-book-of-news/) that were released during [Microsoft Ignite 2021](https://myignite.microsoft.com/ "Microsoft Ignite 2021")
+- 📚 These days, I am running a [Global AI Podcast](https://globalai.live/ai-the-podcast/ "Global AI Podcast") & learning about the [latest capabilities](https://news.microsoft.com/build-2021-book-of-news/) that were released during [Microsoft Build 2021](https://build.microsoft.com/ "Microsoft Build 2021")
 - 👯 If you have got anything exciting around Power Platform, Bots, ML.NET or Azure AI, then I am always up for it
 - 💬 Please feel free to ask me anything around Conversational AI, Azure and Power Platform development
 - ⚡ Fun fact: When I am not working or helping anyone, I am either spending a quality time with my family or capturing nature (💡 [Instagram](http://instagram.com/arafattehsin "instagram"))
@@ -31,4 +31,9 @@ I love to code, write and talk about Microsoft AI stack that includes everything
     <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 250px;">
       <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="32%" />
     </a>    
+</div>
+<div style="width:"100%; text-align:center">
+    <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: auto;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="100%" />
+    </a>
 </div>
