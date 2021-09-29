@@ -8,7 +8,8 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 
 - 💻 I am currently working on some exciting stuff around [Dynamics 365](https://dynamics.microsoft.com/en-au/ "Dynamics 365"), [Power Platform](https://powerplatform.microsoft.com/ "Power Platform") and [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI")
 - 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework enthusiasts
-- 📈 My repo [CognitiveRocket](https://github.com/arafattehsin/CognitiveRocket) contains all of the stuff I talk or blog about. Within the same repo, I have got a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions. If you're interested in contributing, please check out the [issues]() tab. 
+- 📈 I created a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions, be it mobile apps, IoT devices or websites. If you're participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), please check out the [issues](https://github.com/arafattehsin/SentimentAnalyzer/issues/1) tab and grab anything you like!
+- ⚙ My repo [CognitiveRocket](https://github.com/arafattehsin/CognitiveRocket) contains all of the stuff I talk or blog about. 
 - ✍ Lately, I have written some [blogs](http://arafattehsin.com/blog "blogs"), guides to create awesome AI experiences for your customers along with an [AI For Every Developer](http://www.arafattehsin.com/tag/ai-for-every-developer/ "AI For Every Developer") series.
 - 📚 These days, I am running a [Global AI Podcast](https://globalai.live/ai-the-podcast/ "Global AI Podcast") & learning about the [latest capabilities](https://news.microsoft.com/build-2021-book-of-news/) that were released during [Microsoft Build 2021](https://build.microsoft.com/ "Microsoft Build 2021")
 - 👯 If you have got anything exciting around Power Platform, Bots, ML.NET or Azure AI, then I am always up for it
@@ -34,6 +35,6 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 </div>
 <div style="width:"100%; text-align:center">
     <a href="https://globalai.live/ai-the-podcast/" style="display: inline-block; margin: auto; width: auto;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="100%" />
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="97%" />
     </a>
 </div>
