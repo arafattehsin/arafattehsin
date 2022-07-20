@@ -7,7 +7,7 @@ I am a Solution Architect at [EY](https://www.ey.com/en_au "EY") and [Microsoft 
 
 I love to code, write and talk about Microsoft AI stack that includes everything around Bots, Cognitive Services, ML.NET & Power Platform / D365. I am very passionate about empowering developers of all the stacks with the necessary applied AI skills.
 
-- 💻 I am currently working on some exciting stuff around [Dynamics 365](https://dynamics.microsoft.com/en-au/ "Dynamics 365"), [Power Platform](https://powerplatform.microsoft.com/ "Power Platform") and [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI")
+- 💻 I am currently working on some exciting stuff around [Power Platform](https://powerplatform.microsoft.com/ "Power Platform") and [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI")
 - 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework enthusiasts
 - 📈 I created a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions, be it mobile apps, IoT devices or websites. If you're participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), please check out the [issues](https://github.com/arafattehsin/SentimentAnalyzer/issues/1) tab and grab the first enhancement to mark your first PR! 
 - ⚙ My repo [CognitiveRocket](https://github.com/arafattehsin/CognitiveRocket) contains all of the stuff I talk or blog about. 
@@ -24,14 +24,14 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 - 🏫 If you are an organizer of a usergroup, bootcamp or community driven sessions with the objective of spreading the awareness for Tech for Good then I will be happy to share my knowledge and experience
 
 <div style="width:"100%; text-align:center">
-    <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: 50px;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/azureug.gif" alt="azure sydney ug meetup" width="32%" />
+    <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: 100%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/azureug.gif" alt="azure sydney ug meetup" width="310px;" />
     </a>
-    <a href="https://github.com/botbuildercommunity" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/bbc.gif" alt="bot builder community" width="32%" />
+    <a href="https://github.com/botbuildercommunity" style="display: inline-block; margin: auto; width: 100%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/bbc.gif" alt="bot builder community" width="310px;" />
     </a>
-    <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="32%" />
+    <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 100%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="310px;" />
     </a>    
 </div>
 <div style="width:"100%; text-align:center">
