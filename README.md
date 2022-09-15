@@ -24,18 +24,18 @@ I love to code, write and talk about Microsoft AI stack that includes everything
 - 🏫 If you are an organizer of a usergroup, bootcamp or community driven sessions with the objective of spreading the awareness for Tech for Good then I will be happy to share my knowledge and experience
 
 <div style="width:"100%; text-align:center">
-    <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: 100%;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/azureug.gif" alt="azure sydney ug meetup" width="310px;" />
+  <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: 33%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/azureug.gif" alt="azure sydney ug meetup" width="33%" />
     </a>
-    <a href="https://github.com/botbuildercommunity" style="display: inline-block; margin: auto; width: 100%;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/bbc.gif" alt="bot builder community" width="310px;" />
+    <a href="https://github.com/botbuildercommunity" style="display: inline-block; margin: auto; width: 33%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/bbc.gif" alt="bot builder community" width="33%" />
     </a>
-    <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 100%;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="310px;" />
-    </a>    
+    <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 33%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="33%" />
+    </a> 
 </div>
 <div style="width:"100%; text-align:center">
     <a href="https://globalai.live/ai-the-podcast/" style="display: inline-block; margin: auto; width: auto;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="97%" />
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="100%" />
     </a>
 </div>
