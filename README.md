@@ -35,7 +35,7 @@ I love to code, write and talk about Microsoft AI stack that includes everything
     </a> 
 </div>
 <div style="width:"100%; text-align:center">
-    <a href="https://globalai.live/ai-the-podcast/" style="display: inline-block; margin: auto; width: auto;">
+    <a href="https://open.spotify.com/show/5qVleSNEBd1uwRq7rU7kkQ" style="display: inline-block; margin: auto; width: auto;">
       <img src="https://github.com/arafattehsin/arafattehsin/blob/master/globalaipodcast.gif" alt="global ai podcast" width="100%" />
     </a>
 </div>
