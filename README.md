@@ -5,15 +5,16 @@
 
 I am a Solution Architect at [EY](https://www.ey.com/en_au "EY") and [Microsoft MVP (AI)](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin "Microsoft MVP (AI)"). I have around a decade of software development experience with the specialization on digital transformation and business automation.
 
-I love to code, write and talk about Microsoft AI stack that includes everything around Bots, Cognitive Services, ML.NET & Power Platform / D365. I am very passionate about empowering developers of all the stacks with the necessary applied AI skills.
+I love to code, write and talk about Microsoft AI stack that includes everything around Applied AI, Cognitive Services, ML Frameworks & Power Platform / D365. I am very passionate about empowering developers of all the stacks with the necessary AI skills.
 
-- 💻 I am currently working on some exciting stuff around [Power Platform](https://powerplatform.microsoft.com/ "Power Platform") and [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI")
-- 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework enthusiasts
+- 💻 I am currently working on some exciting stuff around [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI") and [Power Platform](https://powerplatform.microsoft.com/ "Power Platform")
 - 📈 I created a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions, be it mobile apps, IoT devices or websites. If you're participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), please check out the [issues](https://github.com/arafattehsin/SentimentAnalyzer/issues/1) tab and grab the first enhancement to mark your first PR! 
+- 🎒 I'm a part of the Microsoft Learning Hub initiative and you can always join my [AI for Everyone](https://forms.office.com/pages/responsepage.aspx?id=LvPJtBfa7U2clc6do48l2XKuB66ZZD5LoteW1KtocHdURUdORjdEMzI5TVY5TjYySVdWVjZBU0FaOS4u) room. I'm trying to cater everyone with different skillsets to learn AI. 
 - ⚙ My repo [CognitiveRocket](https://github.com/arafattehsin/CognitiveRocket) contains all of the stuff I talk or blog about. 
 - ✍ Lately, I have written some [blogs](http://arafattehsin.com/blog "blogs"), guides to create awesome AI experiences for your customers along with an [AI For Every Developer](http://www.arafattehsin.com/tag/ai-for-every-developer/ "AI For Every Developer") series.
 - 📚 These days, I am running a [Global AI Podcast](https://globalai.live/ai-the-podcast/ "Global AI Podcast") & learning about the [latest capabilities](https://news.microsoft.com/build-2021-book-of-news/) that were released during [Microsoft Build 2021](https://build.microsoft.com/ "Microsoft Build 2021")
-- 👯 If you have got anything exciting around Power Platform, Bots, ML.NET or Azure AI, then I am always up for it
+- 🤖 Along with other MVPs, I co-founded and maintain the [Bot Builder Community](http://github.com/botbuildercommunity "Bot Builder Community Project") to facilitate Microsoft Bot Framework enthusiasts. It's becoming a legacy but we'll see where it goes.
+- 👯 If you have got anything exciting around Azure AI, .NET, Power Platform then I am always up for it
 - 💬 Please feel free to ask me anything around Conversational AI, Azure and Power Platform development
 - ⚡ Fun fact: When I am not working or helping anyone, I am either spending a quality time with my family or capturing nature (💡 [Instagram](http://instagram.com/arafattehsin "instagram"))
 
@@ -27,8 +28,8 @@ I love to code, write and talk about Microsoft AI stack that includes everything
   <a href="https://bit.ly/azuresydneyug" style="display: inline-block; margin: auto; width: 33%;">
       <img src="https://github.com/arafattehsin/arafattehsin/blob/master/azureug.gif" alt="azure sydney ug meetup" width="33%" />
     </a>
-    <a href="https://github.com/botbuildercommunity" style="display: inline-block; margin: auto; width: 33%;">
-      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/bbc.gif" alt="bot builder community" width="33%" />
+    <a href="https://forms.office.com/pages/responsepage.aspx?id=LvPJtBfa7U2clc6do48l2XKuB66ZZD5LoteW1KtocHdURUdORjdEMzI5TVY5TjYySVdWVjZBU0FaOS4u" style="display: inline-block; margin: auto; width: 33%;">
+      <img src="https://github.com/arafattehsin/arafattehsin/blob/master/aiforeveryone.gif" alt="ai for everyyone learning room" width="33%" />
     </a>
     <a href="https://github.com/arafattehsin/cognitiverocket" style="display: inline-block; margin: auto; width: 33%;">
       <img src="https://github.com/arafattehsin/arafattehsin/blob/master/cognitiverocket.gif" alt="Cognitive Rocket" width="33%" />
