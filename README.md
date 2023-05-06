@@ -1,6 +1,6 @@
 ## Hello from Down Under :australia:
 
-[![Twitter](https://img.shields.io/badge/follow-@arafattehsin-blue?style=flat-square&logo=twitter&labelColor=00000 "Twitter")](https://twitter.com/arafattehsin "Twitter") [![Linked In](https://img.shields.io/badge/connect-arafattehsin-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](https://www.linkedin.com/in/arafattehsin "Linked In") [![Instagram](https://img.shields.io/badge/explore-arafattehsin-e56969?style=flat-square&logo=instagram&labelColor=ffc286 "Instagram")](https://www.instagram.com/arafattehsin "Instagram") ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arafattehsin.visitor-badge&left_text=visits)
+[![Twitter](https://img.shields.io/badge/follow-@arafattehsin-blue?style=flat-square&logo=twitter&labelColor=00000 "Twitter")](https://twitter.com/arafattehsin "Twitter") [![Linked In](https://img.shields.io/badge/connect-arafattehsin-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](https://www.linkedin.com/in/arafattehsin "Linked In") [![Instagram](https://img.shields.io/badge/explore-arafattehsin-e56969?style=flat-square&logo=instagram&labelColor=ffc286 "Instagram")](https://www.instagram.com/arafattehsin "Instagram")
 
 
 I am a Solution Architect at [EY](https://www.ey.com/en_au "EY") and [Microsoft MVP (AI)](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin "Microsoft MVP (AI)"). I have around a decade of software development experience with the specialization on digital transformation and business automation.
