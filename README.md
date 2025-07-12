@@ -3,9 +3,9 @@
 [![Twitter](https://img.shields.io/badge/follow-@arafattehsin-blue?style=flat-square&logo=twitter&labelColor=00000 "Twitter")](https://twitter.com/arafattehsin "Twitter") [![Linked In](https://img.shields.io/badge/connect-arafattehsin-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](https://www.linkedin.com/in/arafattehsin "Linked In") [![Instagram](https://img.shields.io/badge/explore-arafattehsin-e56969?style=flat-square&logo=instagram&labelColor=ffc286 "Instagram")](https://www.instagram.com/arafattehsin "Instagram")
 
 
-I am a Founder of [Fedorai](https://www.fedorai.com/") and [Microsoft MVP (AI)](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin "Microsoft MVP (AI)"). I have more than a decade of software development experience with the specialisation on digital transformation and business automation.
+I am a Founder of [Fedorai](https://www.fedorai.com/") and [Microsoft MVP (AI)](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin "Microsoft MVP (AI)"). I have more than a decade of AI development experience with the specialisation on digital transformation and business automation.
 
-I love to code, write and talk about Microsoft AI stack that includes everything around Applied and Generative AI, Azure AI Services, ML Frameworks & .NET along side Power Platform. I am very passionate about empowering developers of all the stacks with the necessary AI skills.
+I love to code, write and talk about Microsoft AI stack that includes everything around Applied and Generative AI, Azure AI Foundry, Azure AI Services, ML Frameworks & .NET along side bit of Power Platform. I am very passionate about empowering developers of all the stacks with the necessary AI skills.
 
 - 💻 I am currently working on some exciting stuff around [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI") and a bit of [.NET](https://dot.net) with [Business Applications ecosystem](https://powerplatform.microsoft.com/ "Power Platform")
 - 🧑‍🏫 I am also startup advisors for a few startups associated with Microsoft for Startups as well as one of the fastest growing Microsoft Partner, [ITKnocks](https://itknocks.com)
