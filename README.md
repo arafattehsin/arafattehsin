@@ -7,7 +7,7 @@ I am a Founder of [Fedorai](https://www.fedorai.com/") and [Microsoft MVP (AI)](
 
 I love to code, write and talk about Microsoft AI stack that includes everything around Applied and Generative AI, Azure AI Foundry, Azure AI Services, ML Frameworks & .NET along side bit of Power Platform. I am very passionate about empowering developers of all the stacks with the necessary AI skills.
 
-- 💻 I am currently working on some exciting stuff around [Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI") and a bit of [.NET](https://dot.net) with [Business Applications ecosystem](https://powerplatform.microsoft.com/ "Power Platform")
+- 💻 I am currently working on some exciting stuff around [Microsoft Foundry](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI") and a bit of [.NET](https://dot.net) with [Business Applications ecosystem](https://powerplatform.microsoft.com/ "Power Platform")
 - 🧑‍🏫 I am also startup advisors for a few startups associated with Microsoft for Startups as well as one of the fastest growing Microsoft Partner, [ITKnocks](https://itknocks.com)
 - 🚀 I recently created a Generative AI repo which I continuously fill in with all things AI goodness, primarily to help you get started with the [Generative AI](https://github.com/arafattehsin/generative-ai) as well as build sophisticated Agentic AI solutions for your customers
 - 🚗 To tackle the complex problems and with the advent of the intelligent vision capabilities of GPT-4o, I recently created [ParkingGPT](https://github.com/arafattehsin/ParkingGPT). Check out the motivation and the reason behind it on my [blog](https://arafattehsin.com/parkinggpt-your-ai-parking-copilot/)
