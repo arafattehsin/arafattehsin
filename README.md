@@ -1,26 +1,67 @@
-## Hello from Down Under :australia:
+<div align="center">
 
-[![Twitter](https://img.shields.io/badge/follow-@arafattehsin-blue?style=flat-square&logo=twitter&labelColor=00000 "Twitter")](https://twitter.com/arafattehsin "Twitter") [![Linked In](https://img.shields.io/badge/connect-arafattehsin-green?style=flat-square&logo=linkedin&labelColor=3f729b "Linked In")](https://www.linkedin.com/in/arafattehsin "Linked In") [![Instagram](https://img.shields.io/badge/explore-arafattehsin-e56969?style=flat-square&logo=instagram&labelColor=ffc286 "Instagram")](https://www.instagram.com/arafattehsin "Instagram")
+<img src="assets/readme-hero-ai-harbour.png" alt="Sydney Harbour at dawn blended with AI agent workflows, cloud architecture nodes, code fragments and community signals." width="100%" />
 
+## Hello from Down Under 👋
 
-I am a Founder of [Fedorai](https://www.fedorai.com/") and [Microsoft MVP (AI)](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin "Microsoft MVP (AI)"). I have more than a decade of AI development experience with the specialisation on digital transformation and business automation.
+**Founder of [Fedorai](https://www.fedorai.com/) · [Microsoft MVP in AI](https://mvp.microsoft.com/en-us/PublicProfile/5003464?fullName=Arafat%20Tehsin) · [OpenAI Codex Ambassador](https://developers.openai.com/community/codex-ambassadors) · Sydney, Australia**
 
-I love to code, write and talk about Microsoft AI stack that includes everything around Applied and Generative AI, Azure AI Foundry, Azure AI Services, ML Frameworks & .NET along side bit of Power Platform. I am very passionate about empowering developers of all the stacks with the necessary AI skills.
+I help teams turn AI ideas into practical systems.
 
-- 💻 I am currently working on some exciting stuff around [Microsoft Foundry](https://azure.microsoft.com/en-us/overview/ai-platform/ "Azure AI") and a bit of [.NET](https://dot.net) with [Business Applications ecosystem](https://powerplatform.microsoft.com/ "Power Platform")
-- 🧑‍🏫 I am also startup advisors for a few startups associated with Microsoft for Startups as well as one of the fastest growing Microsoft Partner, [ITKnocks](https://itknocks.com)
-- 🚀 I recently created a Generative AI repo which I continuously fill in with all things AI goodness, primarily to help you get started with the [Generative AI](https://github.com/arafattehsin/generative-ai) as well as build sophisticated Agentic AI solutions for your customers
-- 🚗 To tackle the complex problems and with the advent of the intelligent vision capabilities of GPT-4o, I recently created [ParkingGPT](https://github.com/arafattehsin/ParkingGPT). Check out the motivation and the reason behind it on my [blog](https://arafattehsin.com/parkinggpt-your-ai-parking-copilot/)
-- 📱 I also created a cross-platform app [GuessWhat?](https://arafattehsin.com/build-your-ai-first-apps-with-semantic-kernel/) which is an end to end implementation of an AI First app built using Semantic Kernel and .NET MAUI  
-- 📈 I created a small yet fast [SentimentAnalyzer](https://www.nuget.org/packages/SentimentAnalyzer/) library built on ML.NET for developers to incorporate within their .NET solutions, be it mobile apps, IoT devices or websites. If you're participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/), please check out the [issues](https://github.com/arafattehsin/SentimentAnalyzer/issues/1) tab and grab the first enhancement to mark your first PR! 
-- ✍ Lately, I have written some [blogs](http://arafattehsin.com/blog "blogs"), guides to create awesome AI experiences for your customers along with an [AI For Every Developer](http://www.arafattehsin.com/tag/ai-for-every-developer/ "AI For Every Developer") series.
-- 📚 These days, I am running a [Global AI Podcast](https://globalai.live/ai-the-podcast/ "Global AI Podcast") & learning about the latest capabilities around Azure AI Foundry
-- 👯 If you have got anything exciting around Azure AI and .NET then I am always up for it
-- ⚡ Fun fact: When I am not working or helping anyone, I am either spending a quality time with my family or capturing nature (💡 [Instagram](http://instagram.com/arafattehsin "instagram"))
+[Blog](https://arafattehsin.com/) · [Generative AI for Developers](https://github.com/arafattehsin/generative-ai) · [Codex Sydney Community](https://luma.com/kp4d5e1q) · [Global AI - The Podcast](https://globalai.live/ai-the-podcast/) · [Instagram](http://instagram.com/arafattehsin)
 
-### How can I help you?
-- 🤼 If you have got an exciting project (existing or new) and you are looking for contributors then please reach out to me
-- 🔰 If you are a student, recent graduate or someone who is looking to kickstart their software engineering journey then I can help you for FREE
-- 🗣 If you want to share your development expertise around Azure to a broader audience (via our [Azure Sydney User Group](http://bit.ly/azuresydneyug "Azure Sydney User Group")) then we will be happy to have you as a speaker
-- 🏫 If you are an organizer of a usergroup, bootcamp or community driven sessions with the objective of spreading the awareness for Tech for Good then I will be happy to share my knowledge and experience
+</div>
 
+---
+
+I work as an independent founder, advisor and builder, helping organisations move from AI ambition to useful, working software. My work sits at the intersection of enterprise AI, agentic workflows, developer experience, automation, cloud architecture and hands-on enablement.
+
+I work with startups, partners and enterprise teams to validate ideas quickly, design the right architecture, build working prototypes, and move towards production with the right balance of speed, governance and business value.
+
+I love to code, write and speak about applied AI, Generative AI, Microsoft Foundry, OpenAI Codex, Microsoft Agent Framework, .NET, Azure AI, GitHub Copilot and modern developer workflows.
+
+<p align="center">
+  <code>AI Agents</code>
+  <code>Microsoft Foundry</code>
+  <code>OpenAI Codex</code>
+  <code>Agentic Workflows</code>
+  <code>.NET</code>
+  <code>Azure AI</code>
+  <code>GitHub Copilot</code>
+  <code>Developer Enablement</code>
+</p>
+
+### Current Signals
+
+| Signal | What I am focused on |
+| --- | --- |
+| 💻 Building | Practical samples around AI agents, Microsoft Agent Framework, OpenAI Codex, .NET and full-stack AI applications. |
+| 🚀 Sharing | Maintaining [Generative AI for Developers](https://github.com/arafattehsin/generative-ai), a repo of notebooks, samples and practical patterns for developers building with Generative AI. |
+| 📈 Modernising | Evolving [SentimentAnalyzer](https://github.com/arafattehsin/SentimentAnalyzer), a privacy-first, on-device sentiment analysis library for .NET with multiple engines, ONNX support, multilingual capabilities and modern .NET workloads. |
+| ✍️ Writing | Publishing on enterprise AI, agentic systems and leadership on my [blog](https://arafattehsin.com/), including posts on unified AI front doors, Microsoft Agent Framework orchestration patterns, and agent skills. |
+| 🎤 Speaking | Sharing practical lessons from building AI systems with real business context at conferences, user groups, bootcamps and community events. |
+| 🌏 Gathering | Helping run the [Codex Sydney Community](https://luma.com/kp4d5e1q), where builders, developers and AI practitioners learn, demo and explore how coding agents are changing software delivery. |
+| 📚 Recording | Co-running [Global AI - The Podcast](https://globalai.live/ai-the-podcast/), where we discuss Microsoft AI, developer tools and the broader AI ecosystem. |
+| 👯 Collaborating | Staying open to meaningful work around AI, agentic systems, developer enablement, startups and community-led learning. |
+| ⚡ Offline | Spending time with family or capturing nature on [Instagram](http://instagram.com/arafattehsin). |
+
+### How Can I Help You?
+
+| If you are... | I can help with... |
+| --- | --- |
+| 🤝 A startup, partner or enterprise team exploring AI | Shaping the idea, validating the architecture and moving from concept to working solution. |
+| 🧑‍💻 Building with Microsoft Foundry, OpenAI Codex, GitHub Copilot, .NET or agentic AI | Comparing notes, reviewing approaches and collaborating on practical implementation patterns. |
+| 🔰 A student, recent graduate or early-career developer | Navigating software engineering, AI learning paths and early career decisions where I can help. |
+| 🗣️ Ready to share your knowledge with the Azure, AI or developer community | Speaking at the [Azure Sydney User Group](http://bit.ly/azuresydneyug) or joining a community session as a speaker. |
+| 🌏 Curious about coding agents and modern developer workflows | Joining or speaking at the [Codex Sydney Community](https://luma.com/kp4d5e1q) to demo, teach, learn and connect with other builders. |
+| 🏫 Organising meetups, bootcamps, hackathons or community sessions | Bringing practical AI, cloud, developer skills or Tech for Good content to your audience. |
+
+### Open Channels
+
+I am always open to thoughtful collaboration around AI systems, agentic workflows, developer enablement, community learning and startup ideas.
+
+<div align="center">
+
+[Website](https://www.fedorai.com/) · [Blog](https://arafattehsin.com/) · [LinkedIn](https://www.linkedin.com/in/arafattehsin) · [Codex Sydney Community](https://luma.com/kp4d5e1q) · [Global AI - The Podcast](https://globalai.live/ai-the-podcast/)
+
+</div>
